@@ -25,7 +25,7 @@ This Project is analysis of the No. of Accidents in USA
 
 
 ## Ask & Answer the Question
-  1. Are ther more accidents in warmer or in colder area?
+  1. Are there more accidents in warmer or in colder area?
   2. Which 5 state has the highest no. of accidents/ as per there capita ?
   3. which are the top 100 accidental cities, and which state do tehy belong too.
   4. Does New-York show his data, if yes then why its count is low though it has more population
